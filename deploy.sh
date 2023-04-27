@@ -1,5 +1,3 @@
 #!/bin/bash
-javac Product.java
-java Product
-
-echo "This is the end"
+javac PRoduct.java
+java PRoduct
