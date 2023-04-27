@@ -3,3 +3,4 @@ wooden
 no hand
 bed
 table attached chair
+hammock
